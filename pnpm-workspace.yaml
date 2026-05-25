@@ -1,0 +1,7 @@
+packages:
+  - '.'
+
+# Pacotes autorizados a correr scripts de build (obrigatório no pnpm v10+)
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - esbuild

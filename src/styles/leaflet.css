@@ -1,0 +1,10 @@
+/* Custom marker styles */
+.bike-marker {
+  background: transparent;
+  border: none;
+}
+
+.bike-marker-icon {
+  color: #10b981;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
