@@ -43,9 +43,11 @@ https://veloom-production.up.railway.app/
   - Nome: Maria Costa
   - Email: maria.costa@email.com
   - Password: maria123
+
   Admin:
   - Email: admin@veloom.pt
   - Password: admin123
+
   Parceiros:
   - Fórum Aveiro: partner@forumaveiro.pt / partner123
   - Glicínias Plaza: partner@glicinias.pt / partner123
