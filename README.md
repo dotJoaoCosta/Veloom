@@ -29,3 +29,24 @@ Este é o pacote de código para o Design de Interface do Veloom.
   ```
   http://localhost:8080
   ```
+
+  ## Site na núvem
+
+Este é o link para o site na nuvem, nós usamos o Railway.
+```
+https://veloom-production.up.railway.app/
+```
+
+  ## 🔑Contas Demo
+  
+  Utlizador:
+  - Nome: Maria Costa
+  - Email: maria.costa@email.com
+  - Password: maria123
+  Admin:
+  - Email: admin@veloom.pt
+  - Password: admin123
+  Parceiros:
+  - Fórum Aveiro: partner@forumaveiro.pt / partner123
+  - Glicínias Plaza: partner@glicinias.pt / partner123
+  - Tech Solutions: partner@techsolutions.pt / partner123
